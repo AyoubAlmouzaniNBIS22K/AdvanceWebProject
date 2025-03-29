@@ -9,7 +9,6 @@ This project aims to create a personal portfolio website that highlights the ski
 - **Home Page**: Introduction to the portfolio owner with a short bio, image, and call-to-action (CTA) buttons for navigating to key sections (e.g., projects, resume, contact).
 - **About Me Section**: A detailed bio, including educational background, professional experience, and personal achievements.
 - **Portfolio Section**: A gallery of previous projects with descriptions, technologies used, and links to live projects or repositories (e.g., GitHub).
-- **Resume Section**: A downloadable PDF of the resume and a detailed timeline of the professional career with key milestones.
 - **Contact Form**: A contact form to allow visitors to reach out directly to the portfolio owner for inquiries or collaborations.
 - **Blog Section**: Optional blog space for sharing thoughts on industry trends, personal growth, or technical tutorials.
 - **Responsive Design**: The site will be mobile-friendly and adapt to various screen sizes.
