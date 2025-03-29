@@ -15,7 +15,7 @@ This project aims to create a personal portfolio website that highlights the ski
 
 ## Technologies
 
-- **Frontend**: HTML, CSS, JavaScript (React, Bootstrap, and CSS for styling)
+- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap, and CSS for styling
 - **Backend**: Node.js, Express (for server-side functionality)
 - **Hosting**: Azure web apps
 - **Version Control**: Git and GitHub for project management and collaboration
