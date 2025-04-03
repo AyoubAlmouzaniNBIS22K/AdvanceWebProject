@@ -76,7 +76,8 @@ This project aims to create a personal portfolio website that highlights the ski
   - As a student, I want to be inspired by real-world examples and learn what tools and technologies are used by professionals in the industry.
  
     <img width="959" alt="image" src="https://github.com/user-attachments/assets/68786700-f58d-4d11-9664-e3a5bbe1c215" />
-    
+    <img width="960" alt="image" src="https://github.com/user-attachments/assets/43c47032-a001-43db-8218-05790ca68a42" />
+    <img width="942" alt="image" src="https://github.com/user-attachments/assets/a94938c5-136e-4cad-90ea-9495fe29c351" />
 
 ## Timeline
 
