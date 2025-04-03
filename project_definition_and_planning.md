@@ -74,6 +74,9 @@ This project aims to create a personal portfolio website that highlights the ski
 - **User Story**: 
   - As a casual visitor, I want to see a clean and simple website design that is easy to navigate and provides quick information about the person’s skills and projects.
   - As a student, I want to be inspired by real-world examples and learn what tools and technologies are used by professionals in the industry.
+ 
+    <img width="959" alt="image" src="https://github.com/user-attachments/assets/68786700-f58d-4d11-9664-e3a5bbe1c215" />
+    
 
 ## Timeline
 
