@@ -1,9 +1,11 @@
 Coffee Shop Website Documentation
--Overview
-This project is a website for a coffee shop aimed at showcasing its unique offerings, attracting customers, and providing essential information about the café. The primary goal is to create an engaging and visually appealing platform that reflects the cozy and high-quality atmosphere of the coffee shop while ensuring ease of use for visitors 
-.
 
-Key Features
+-Overview
+
+This project is a website for a coffee shop aimed at showcasing its unique offerings, attracting customers, and providing essential information about the café. The primary goal is to create an engaging and visually appealing platform that reflects the cozy and high-quality atmosphere of the coffee shop while ensuring ease of use for visitors 
+
+
+
 --Home Page
 A welcoming introduction to the coffee shop with a tagline emphasizing its uniqueness "The best coffee in Finland".
 Navigation menu linking to key sections: "About Us," "Menu," "Special Items," and "Contact."
@@ -21,18 +23,19 @@ Showcase of iced coffee options (Iced Americano, Iced Cappuccino, Iced Espresso,
 High-quality images of each coffee item to entice visitors 
 <img width="500" alt="coffee11" src="https://github.com/user-attachments/assets/8d2f6f83-7e77-4488-9ca3-9e8e0a53fc24" />
 
-.
+
 --Special Items Section
 Display of unique food and drink offerings (e.g., burgers, pastries).
 Brief descriptions emphasizing their appeal and uniqueness.
 <img width="494" alt="coffee shop33" src="https://github.com/user-attachments/assets/5231ce4a-2a61-4bd1-a498-5158bfb96353" />
+
 
 --Contact Section
 A contact form allowing visitors to submit inquiries or feedback.
 Encouragement for users to reach out with any questions or complaints 
 <img width="493" alt="coffee shop44" src="https://github.com/user-attachments/assets/6a25906f-91c8-41d2-b86d-9d286b4345bc" />
 
-.
+
 Design Elements
 Color Scheme :
 A modern and professional combination of teal, white, and black.
