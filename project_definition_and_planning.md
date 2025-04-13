@@ -250,45 +250,77 @@ Manage Inventory
 Description : The admin tracks stock levels of ingredients (e.g., coffee beans, milk) and places orders for replenishment.
 
 Precondition : Inventory management system is integrated.
+
 Postcondition : Stock levels are updated, and reordering is initiated if necessary.
 Respond to Customer Feedback
+
 Description : The admin reviews customer feedback and responds appropriately (e.g., "Thank you for your review! We’re glad you enjoyed our latte.").
+
 Precondition : Feedback is submitted by customers.
+
 Postcondition : Customers feel heard, and improvements are made if needed.
 Add Promotions/Discounts
+
 Description : The admin creates and publishes promotional offers (e.g., "Buy 1 Get 1 Free on Mondays").
+
 Precondition : Promotion management tools are available.
+
 Postcondition : Customers can apply the promo codes during checkout.
 Monitor Website Performance
+
 Description : The admin checks website analytics (e.g., traffic, bounce rate, conversion rate) to optimize the site.
+
 Precondition : Analytics tools are integrated.
+
 Postcondition : Insights are used to improve the website.
+
 3. Barista Use Cases (Optional)
+   
 These use cases focus on the interactions of the barista with the website:
 
 View Assigned Orders
+
 Description : The barista views all orders assigned to them for preparation.
+
 Precondition : Orders are assigned by the admin.
+
 Postcondition : The barista knows which orders to prepare.
+
 Mark Order as Ready
-Description : The barista updates the status of an order to "Ready for Pickup" or "Ready for Delivery."
+
+Description : The barista updates the status of an order to "Ready for Pickup" or "Ready for Delivery.
+
 Precondition : The barista has completed preparing the order.
+
 Postcondition : The customer receives real-time updates on their order.
+
 4. Delivery Person Use Cases (Optional)
+   
 These use cases focus on the interactions of the delivery person with the website:
 
 View Assigned Delivery Orders
+
 Description : The delivery person views all orders assigned to them for delivery.
+
 Precondition : Orders are assigned by the admin.
+
 Postcondition : The delivery person knows which orders to deliver.
+
 Update Delivery Status
+
 Description : The delivery person updates the status of an order (e.g., "Picked Up," "Delivered").
+
 Precondition : The delivery person has access to the delivery dashboard.
+
 Postcondition : The customer receives real-time updates on their order.
 Navigate to Delivery Location
+
 Description : The delivery person uses an integrated map feature to locate the customer’s address.
+
 Precondition : GPS integration is available.
+
 Postcondition : The delivery person reaches the destination efficiently.
+
 Incorporate a blog section to share coffee brewing tips, sustainability practices, and updates about the café.
 
 Integrate a newsletter signup to keep visitors informed about promotions and events.
